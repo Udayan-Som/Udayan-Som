@@ -13,7 +13,6 @@ Currently teaching myself AI and game development alongside JEE prep.
 
 ## Goals
 
-- Get into a top engineering university abroad (Korea / Germany / Japan / Singapore)
 - Complete CS50 Harvard by [June 2027]
 - Build a game where enemy AI learns player playstyle using ML, Going to name it "Adaptbot" or smth.
 
